@@ -1,0 +1,20 @@
+{
+  "generated": 100,
+  "target_total": 100,
+  "distribution": {
+    "1-source": 45,
+    "2-sources": 50,
+    "3+-sources": 5
+  },
+  "split_path": "data/generated_splits/MATHE/random_100",
+  "lexicon_path": "demo/lexicon.json",
+  "allowed_cols": [
+    "algorithmLevel",
+    "id_lect",
+    "keyword_name",
+    "newLevel",
+    "question_id",
+    "subtopic_name",
+    "topic_name"
+  ]
+}
